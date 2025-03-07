@@ -1,0 +1,108 @@
+ 06-03-2025 12:24:03:136 [pid=39012 tid=39012] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 12:24:03:137 [pid=39012 tid=39012] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 12:24:03:218 [pid=39012 tid=39012] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 12:33:32:510 [pid=55662 tid=55662] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 12:33:32:510 [pid=55662 tid=55662] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 12:33:32:591 [pid=55662 tid=55662] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 12:35:00:378 [pid=56166 tid=56166] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 12:35:00:379 [pid=56166 tid=56166] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 12:35:00:468 [pid=56166 tid=56166] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 12:51:45:348 [pid=60936 tid=60936] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 12:51:45:349 [pid=60936 tid=60936] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 12:51:45:443 [pid=60936 tid=60936] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 12:52:18:397 [pid=61216 tid=61216] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 12:52:18:398 [pid=61216 tid=61216] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 12:52:18:477 [pid=61216 tid=61216] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 12:52:34:559 [pid=61361 tid=61361] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 12:52:34:560 [pid=61361 tid=61361] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 12:52:34:691 [pid=61361 tid=61361] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 12:54:42:717 [pid=62037 tid=62037] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 12:54:42:718 [pid=62037 tid=62037] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 12:54:42:801 [pid=62037 tid=62037] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 12:56:21:707 [pid=62581 tid=62581] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 12:56:21:707 [pid=62581 tid=62581] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 12:56:21:789 [pid=62581 tid=62581] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 12:57:29:717 [pid=62993 tid=62993] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 12:57:29:718 [pid=62993 tid=62993] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 12:57:29:794 [pid=62993 tid=62993] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:00:56:587 [pid=64024 tid=64024] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:00:56:587 [pid=64024 tid=64024] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:00:56:668 [pid=64024 tid=64024] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:02:52:327 [pid=64655 tid=64655] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:02:52:327 [pid=64655 tid=64655] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:02:52:409 [pid=64655 tid=64655] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:05:03:962 [pid=65374 tid=65374] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:05:03:962 [pid=65374 tid=65374] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:05:04:45 [pid=65374 tid=65374] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:06:29:732 [pid=65876 tid=65876] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:06:29:732 [pid=65876 tid=65876] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:06:29:812 [pid=65876 tid=65876] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:09:08:127 [pid=66705 tid=66705] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:09:08:128 [pid=66705 tid=66705] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:09:08:205 [pid=66705 tid=66705] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:11:40:644 [pid=67536 tid=67536] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:11:40:645 [pid=67536 tid=67536] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:11:40:727 [pid=67536 tid=67536] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:17:10:685 [pid=69123 tid=69123] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:17:10:687 [pid=69123 tid=69123] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:17:10:766 [pid=69123 tid=69123] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:20:46:661 [pid=70233 tid=70233] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:20:46:662 [pid=70233 tid=70233] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:20:46:742 [pid=70233 tid=70233] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:23:21:257 [pid=71052 tid=71052] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:23:21:259 [pid=71052 tid=71052] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:23:21:336 [pid=71052 tid=71052] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:25:44:708 [pid=71840 tid=71840] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:25:44:709 [pid=71840 tid=71840] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:25:44:786 [pid=71840 tid=71840] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:30:25:777 [pid=73271 tid=73271] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:30:25:777 [pid=73271 tid=73271] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:30:25:856 [pid=73271 tid=73271] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:33:45:23 [pid=74279 tid=74279] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:33:45:24 [pid=74279 tid=74279] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:33:45:103 [pid=74279 tid=74279] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:38:56:742 [pid=75913 tid=75913] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:38:56:742 [pid=75913 tid=75913] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:38:56:827 [pid=75913 tid=75913] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:45:28:114 [pid=77848 tid=77848] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:45:28:115 [pid=77848 tid=77848] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:45:28:204 [pid=77848 tid=77848] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:50:28:461 [pid=79422 tid=79422] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:50:28:462 [pid=79422 tid=79422] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:50:28:547 [pid=79422 tid=79422] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 13:56:07:339 [pid=81251 tid=81251] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 13:56:07:340 [pid=81251 tid=81251] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 13:56:07:417 [pid=81251 tid=81251] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 14:01:46:304 [pid=83793 tid=83793] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 14:01:46:307 [pid=83793 tid=83793] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 14:01:46:396 [pid=83793 tid=83793] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 14:03:13:415 [pid=84271 tid=84271] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 14:03:13:418 [pid=84271 tid=84271] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 14:03:13:502 [pid=84271 tid=84271] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 14:05:12:743 [pid=84884 tid=84884] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 14:05:12:743 [pid=84884 tid=84884] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 14:05:12:823 [pid=84884 tid=84884] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 14:07:01:163 [pid=85452 tid=85452] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 14:07:01:163 [pid=85452 tid=85452] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 14:07:01:244 [pid=85452 tid=85452] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 23:40:32:747 [pid=220939 tid=220939] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 23:40:32:748 [pid=220939 tid=220939] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 23:40:32:835 [pid=220939 tid=220939] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 23:42:23:678 [pid=221471 tid=221471] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 23:42:23:678 [pid=221471 tid=221471] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 23:42:23:751 [pid=221471 tid=221471] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 23:45:01:876 [pid=222225 tid=222225] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 23:45:01:877 [pid=222225 tid=222225] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 23:45:01:948 [pid=222225 tid=222225] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 23:46:17:135 [pid=222594 tid=222594] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 23:46:17:135 [pid=222594 tid=222594] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 23:46:17:206 [pid=222594 tid=222594] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 23:48:04:372 [pid=223123 tid=223123] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 23:48:04:373 [pid=223123 tid=223123] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 23:48:04:442 [pid=223123 tid=223123] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 23:49:16:156 [pid=223588 tid=223588] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 23:49:16:157 [pid=223588 tid=223588] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 23:49:16:282 [pid=223588 tid=223588] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 06-03-2025 23:50:22:397 [pid=223947 tid=223947] NOTICE  cufio-drv:705 running in compatible mode
+ 06-03-2025 23:50:22:398 [pid=223947 tid=223947] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 06-03-2025 23:50:22:466 [pid=223947 tid=223947] ERROR  cufio-topo-udev:431 no device entries present in platform topology
