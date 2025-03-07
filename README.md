@@ -196,8 +196,8 @@ python -m prediction.eval --model path/to/base_model.pt --mode ablation --ablati
 Copy@misc{GeoLife-Trajectory-Prediction,
   author = {Your Name},
   title = {GeoLife轨迹预测系统},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/username/GeoLife-Trajectory-Prediction}
+  url = {https://github.com/Tsingloong611/GeoLife-Trajectory-Prediction}
 }
 ```
