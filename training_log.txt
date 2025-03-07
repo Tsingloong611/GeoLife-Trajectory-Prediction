@@ -1,0 +1,53 @@
+开始执行模型训�?.. 
+2025/03/06 ���� 11:09:28.78 
+激�?conda 环境 academic... 
+训练 LSTM 模型... 
+D:\Program Files\miniconda3\envs\academic\lib\site-packages\torch\optim\lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+Traceback (most recent call last):
+  File "D:\Program Files\miniconda3\envs\academic\lib\site-packages\torch\utils\data\_utils\collate.py", line 171, in collate
+    {
+  File "D:\Program Files\miniconda3\envs\academic\lib\site-packages\torch\utils\data\_utils\collate.py", line 172, in <dictcomp>
+    key: collate(
+  File "D:\Program Files\miniconda3\envs\academic\lib\site-packages\torch\utils\data\_utils\collate.py", line 240, in collate
+    raise TypeError(default_collate_err_msg_format.format(elem_type))
+TypeError: default_collate: batch must contain tensors, numpy arrays, numbers, dicts or lists; found <class 'pandas._libs.tslibs.timestamps.Timestamp'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Program Files\miniconda3\envs\academic\lib\runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "D:\Program Files\miniconda3\envs\academic\lib\runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "D:\PythonProjects\data_final\prediction\train.py", line 402, in <module>
+    train(
+  File "D:\PythonProjects\data_final\prediction\train.py", line 234, in train
+    train_loss = train_epoch(model, train_loader, optimizer, DEVICE, gradient_clip)
+  File "D:\PythonProjects\data_final\prediction\train.py", line 45, in train_epoch
+    for batch in dataloader:
+  File "D:\Program Files\miniconda3\envs\academic\lib\site-packages\torch\utils\data\dataloader.py", line 701, in __next__
+    data = self._next_data()
+  File "D:\Program Files\miniconda3\envs\academic\lib\site-packages\torch\utils\data\dataloader.py", line 757, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+  File "D:\Program Files\miniconda3\envs\academic\lib\site-packages\torch\utils\data\_utils\fetch.py", line 55, in fetch
+    return self.collate_fn(data)
+  File "D:\Program Files\miniconda3\envs\academic\lib\site-packages\torch\utils\data\_utils\collate.py", line 398, in default_collate
+    return collate(batch, collate_fn_map=default_collate_fn_map)
+  File "D:\Program Files\miniconda3\envs\academic\lib\site-packages\torch\utils\data\_utils\collate.py", line 191, in collate
+    return {
+  File "D:\Program Files\miniconda3\envs\academic\lib\site-packages\torch\utils\data\_utils\collate.py", line 192, in <dictcomp>
+    key: collate([d[key] for d in batch], collate_fn_map=collate_fn_map)
+  File "D:\Program Files\miniconda3\envs\academic\lib\site-packages\torch\utils\data\_utils\collate.py", line 240, in collate
+    raise TypeError(default_collate_err_msg_format.format(elem_type))
+TypeError: default_collate: batch must contain tensors, numpy arrays, numbers, dicts or lists; found <class 'pandas._libs.tslibs.timestamps.Timestamp'>
+使用GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+加载预测样本 (输入长度: 20, 输出长度: 5)...
+加载特征列表...
+创建数据加载器...
+数据集划分完成: 训练集=141样本, 验证集=296样本, 测试集=439样本
+输入特征数量: 28
+创建lstm模型...
+模型参数数量: 1,383,042
+开始训练 100 轮...
+ERROR conda.cli.main_run:execute(125): `conda run python -m prediction.train --model lstm --input_length 20 --output_length 5 --batch_size 64 --lr 0.001 --epochs 100` failed. (See above for error)
